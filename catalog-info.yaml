@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-tap-azure
+  annotations:
+    github.com/project-slug: chrisr6-vmware/test-tap-azure
+spec:
+  type: other
+  lifecycle: unknown
+  owner: gfhfghfghfgh
